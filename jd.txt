@@ -1,0 +1,28 @@
+About the job
+Role Overview
+We are looking for a customer-obsessed, highly technical Solutions Architect (SA 2) to join our Solutions Architecture team based in Bangalore. In this role, you will act as the technical single point of contact for enterprise clients and major financial institutions. You will partner closely with client engineering teams to architect, integrate, and scale HyperVerge’s AI products into complex enterprise ecosystems.
+Key Responsibilities & Outcomes
+Solution Architecture & Integration: Design end-to-end technical solutions and workflows tailored to complex client systems, driving integrations from discovery to post-go-live.
+Pre-Sales & Technical Discovery: Partner with Sales teams to conduct technical discovery sessions, deliver product deep-dives, address security/architecture queries, and execute Proofs of Concept (POCs).
+Enterprise & BFSI Delivery: Serve as a trusted technical advisor to large BFSI clients and enterprises, navigating strict security, compliance, data privacy, and architecture constraints.
+Cross-Functional Bridge: Collaborate closely with Product, Engineering, and Customer Success teams to relay market needs, product feedback, and feature requests directly into HyperVerge’s product roadmap.
+Troubleshooting & Optimization: Troubleshoot integration issues, optimize API/SDK performance, and establish technical execution frameworks.
+
+Requirements & Qualifications
+Must-Haves
+Experience: 4 to 6 years of overall professional experience, with a strong focus in Technical Consulting, Solutions Architecture, Technical Pre-Sales, or Solutions Engineering in a B2B SaaS environment.
+BFSI & Enterprise Track Record: Proven track record of directly delivering solutions or consulting for large Enterprise clients and BFSI (Banking, Financial Services, and Insurance) institutions.
+Technical Depth: Deep understanding of RESTful APIs, web/mobile SDK integrations (iOS, Android, React Native/Flutter), system architecture, and security/compliance standards (e.g., ISO, SOC 2, data localization laws).
+Communication & Stakeholder Management: Excellent verbal, written, and presentation skills to effectively translate complex technical solutions for non-technical stakeholders and executive teams.
+Location: Based in or willing to relocate to Bangalore.
+
+Good-to-Have
+Cross-Cultural & Non-English Speaking Client Experience:
+Regions: Experience collaborating with clients or stakeholders across non-English speaking regions (e.g., SE Asia / LATAM / MENA / Japan / Vietnam / Indonesia / Francophone Africa).
+Context & Challenges: Comfort with navigating regional nuance, such as variance in communication styles, technical terminology translation gaps, high-context business cultures, local data privacy mandates, and time zone/language friction.
+Mitigation & Solutions: Proven strategies for bridging language/culture barriers—such as developing visual integration blueprints, standardized API documentation/Postman collections, asynchronous communication loops, and working effectively alongside local partner/translation teams.
+
+Position Summary
+Role Designation: Solutions Architect 2 (SA 2)
+Location: Bangalore, India
+Experience Level: 4 – 6 Years
